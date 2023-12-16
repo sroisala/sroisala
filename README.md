@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sroisala Harnpanichpun</h1>
+<h1 align="center">Hi 🙋🏻‍♀️, I'm Sroisala Harnpanichpun</h1>
 <h3 align="center">🤖 Robotics & AI Student from Thailand 🇹🇭 | Exploring the Future of Technology</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1428359/screenshots/4789906/girl_hi_800x600.gif">
 
@@ -6,6 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sroisala&label=Profile%20views&color=0e75b6&style=flat" alt="sroisala" /> </p>
 
 - 🌱 I’m currently learning **Data Science**
+
+- ✨ I have experience in **Frontend Development**
 
 - 💬 Ask me about **Python, R**
 
