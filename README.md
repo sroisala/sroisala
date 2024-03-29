@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sroisala&label=Profile%20views&color=0e75b6&style=flat" alt="sroisala" /> </p>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Backend Development & Data Science**
 
 - ✨ I have experience in **Frontend Development**
 
-- 💬 Ask me about **Python, R**
+- 💬 Ask me about **Python, R, TailwindCSS**
 
 - 📫 How to reach me **sroisalah@gmail.com**
 
