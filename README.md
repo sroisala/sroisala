@@ -86,9 +86,8 @@
   <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="40" height="40"/> 
   </a> 
-  <a href="https://superset.apache.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/apache_superset/apache_superset-icon.svg" alt="superset" width="40" height="40"/> 
-  </a> 
+  <a href="https://commons.wikimedia.org/wiki/File:Superset_logo.svg#/media/File:Superset_logo.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Superset_logo.svg" alt="File:Superset logo.svg" height="133" width="512">
+  </a>
   <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="40" height="40"/> 
   </a> 
